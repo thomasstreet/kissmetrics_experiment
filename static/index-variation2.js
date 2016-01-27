@@ -1,4 +1,5 @@
 (function() {
+	console.log("loaded index-variation2.js")
 	var START_GAME = 'start_game';
 	var CLICK_TILE = 'click_tile';
 	var USE_MULTIPLIER = 'use_multiplier';
